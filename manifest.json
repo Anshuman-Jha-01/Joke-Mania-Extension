@@ -1,16 +1,22 @@
 {
-    "name": "Joke Mania",
-    "description": "Laugh a little",
-    "version": "0.0.1",
-    "manifest_version": 3,
-    "action": {
-        "default_popup": "index.html",
-        "default_icon": "lol.png"
-    },
-    "content_scripts": [
-        {
-            "js": ["school.js"],
-            "matches":["https://amigo.amityonline.com/login/index.php"]
-        }
-    ]
+  "name": "Joke Mania",
+  "description": "Laugh a little",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "lol.png"
+  },
+  "icons": {
+    "16": "lol.png",
+    "32": "lol.png",
+    "48": "lol.png",
+    "128": "lol.png"
+  },
+  "content_scripts": [
+    {
+      "js": ["school.js"],
+      "matches": ["https://amigo.amityonline.com/login/index.php"]
+    }
+  ]
 }
