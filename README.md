@@ -119,7 +119,7 @@ The project is written in JavaScript, HTML, and CSS, and the browser extension u
     ├── manifest.json      # Chrome extension configuration
     ├── school.js          # Custom script for specific webpages
     ├── style.css          # Styles for the application
-    ├── lol.png            # Icon for the browser extension
+    └── lol.png            # Icon for the browser extension
 
   ```
 
