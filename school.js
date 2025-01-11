@@ -1,0 +1,1 @@
+alert("Have you laughed today?");
