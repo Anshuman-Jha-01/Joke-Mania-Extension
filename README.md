@@ -80,7 +80,7 @@ The project is written in JavaScript, HTML, and CSS, and the browser extension u
 - Click the Joke Mania icon in the browser's toolbar.
 - A popup will display a random joke.
 
-3. ***Additional Interaction:***
+3. **Additional Interaction:**
 - Visit the specified match URL (as per the manifest) to trigger custom scripts.
 
 ---
